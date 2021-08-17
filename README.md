@@ -1,7 +1,7 @@
 # Brayanmezac
 ## Hi person reading this!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
----
+
 
 My name is brayan meza castillo but normally in my social networks you can see me as @brayanmezac.  
 
@@ -11,7 +11,7 @@ I am a student of systems engineering at the "unidades tecnologicas de santander
 
 ## I can tell you about me!
 
----
+
 
 - 🇨🇴 I´m colombian.
 - 🧒 22 year old.
@@ -29,7 +29,7 @@ I am a student of systems engineering at the "unidades tecnologicas de santander
 
 ## I am doing and skill.
 
----
+
 
 - ☕ Learning java.             |🌟🌟🌟🌟⭐|
 - 🐍 Learning python.           |🌟🌟🌟⭐⭐|
@@ -42,7 +42,7 @@ I am a student of systems engineering at the "unidades tecnologicas de santander
 
 ## Social media
 
----
+
 <div style="text-align: center">
 
 
