@@ -33,7 +33,7 @@ I am a student of systems engineering at the "unidades tecnologicas de santander
 
 
 - 💻 Web development.
-- 🧟‍♂️ Minecraft server developer.
+- 🎮 I ❤️ VR 🕶️🚀
 
 
 
