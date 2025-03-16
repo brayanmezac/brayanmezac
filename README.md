@@ -5,7 +5,7 @@
 
 My name is brayan meza castillo but normally in my social networks you can see me as @brayanmezac.  
 
-I am a student of systems engineering at the "unidades tecnologicas de santander" currently in my 6th semester. 
+I am a student of systems engineering at the "unidades tecnologicas de santander" currently in my 10th semester. 
 
 
 
@@ -14,7 +14,7 @@ I am a student of systems engineering at the "unidades tecnologicas de santander
 
 
 - 🇨🇴 I´m colombian.
-- 🧒 23 year old.
+- 🧒 25 year old.
 - 👨‍💻 technology enthusiasts.
 - 🙏 agnostic.
 - 🧟‍♂️ minecraft player.
@@ -31,10 +31,7 @@ I am a student of systems engineering at the "unidades tecnologicas de santander
 
 
 
-- ☕ Learning java.             |🌟🌟🌟🌟⭐|
-- 🐍 Learning python.           |🌟🌟🌟⭐⭐|
-- `C`  Learning C and C++       |🌟🌟⭐⭐⭐|
-- 🐱‍💻 Learning ethical hacking   |🌟🌟🌟⭐⭐|
+
 - 💻 Web development.
 - 🧟‍♂️ Minecraft server developer.
 
